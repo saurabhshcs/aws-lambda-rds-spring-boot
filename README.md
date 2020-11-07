@@ -1,4 +1,4 @@
-# aws-lambda-rds-spring-boot
+# aws-rds-spring-boot
 
 This application will cover that how to connect with AWS RDS services, perform CRUD operations using MySQL and NoSQL (DynamoDB).
 
